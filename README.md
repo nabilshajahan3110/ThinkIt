@@ -4,10 +4,8 @@ An interactive AI-powered trivia game built with LangChain, Groq, and Streamlit.
 🚀 Live App
 🔗 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thinkit-zwf4defwn9gaytrh6f47r8.streamlit.app/)
 
-📂 GitHub Repo
-🔗 https://github.com/nabilshajahan3110/ThinkIt
-
 🛠️ Features
+
 🎯 Category & Difficulty Selection
 
 💡 AI-generated trivia questions (via LLM)
@@ -21,6 +19,7 @@ An interactive AI-powered trivia game built with LangChain, Groq, and Streamlit.
 🧠 Session memory of performance
 
 📦 Tech Stack
+
 Python
 
 Streamlit
